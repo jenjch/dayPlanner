@@ -1,4 +1,5 @@
 body {
+  background-image: url("memphis-colorful.png");
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
@@ -11,6 +12,13 @@ textarea{
   color: black;
   border-left: 1px solid black;
   padding: 10px;
+}
+
+.container-fluid{
+  width: 65%;
+  background: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .jumbotron {
@@ -53,12 +61,12 @@ textarea{
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #7684aa;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #c482c0;
   color: white;
 }
 
