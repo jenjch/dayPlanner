@@ -1,4 +1,4 @@
-# Homework 4 - Day Planner
+# Homework 5 - Day Planner
 
 The aim of this assignment was to create a daily planner from 9 am to 5 pm, with ability to type in To Do's in each time slot, which will save to local storage and retain on the page. Each time slot will also be color-coded to reflect whether the time is in the past, current, or in the future.
 
@@ -19,7 +19,9 @@ During and after completing the assignment, I commented out each step of my java
 ## Deployment
 
 Aftering completing all requirements for the assignment, I did a final update of the files in Github and deployed the website for review. 
+
 https://github.com/jenjch/dayPlanner
+
 https://jenjch.github.io/dayPlanner
 
 ## Acceptance Criteria
